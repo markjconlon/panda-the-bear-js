@@ -26,3 +26,13 @@ $('.action-icon-bg').css('background-color', 'blue')
 $('form').find('input[name="name"]').attr('placeholder', "identify yourself")
 
 10)
+$('form').find('textarea[name="message"]').attr('placeholder', "state your business")
+
+11)
+$('form').find('input[name="name"]').attr('value', "Your Nemesis")
+
+12)
+$('form').find('input[name="email"]').attr('value', "koalathebear@gmail.com")
+
+13)
+$('form').find('input[name="submit"]').attr('value', "En Garde!")
